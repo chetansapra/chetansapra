@@ -1,4 +1,4 @@
-![logo](https://github.com/chetansapra/chetansapra/blob/main/Add%20a%20heading.png)
+
 <h1 align="center">Hi 👋, I'm Chetan Sapra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
